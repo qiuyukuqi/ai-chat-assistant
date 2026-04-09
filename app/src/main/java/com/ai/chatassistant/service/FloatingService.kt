@@ -13,7 +13,6 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.core.app.NotificationCompat
 import com.ai.chatassistant.R
-import com.ai.chatassistant.R
 
 class FloatingService : Service() {
 
