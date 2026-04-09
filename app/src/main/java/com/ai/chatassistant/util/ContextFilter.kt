@@ -11,7 +11,7 @@ object ContextFilter {
         Regex("\\[链接\\]"),
         Regex("\\[表情\\]"),
         Regex("^\\s*$"),
-        Regex("^\\p{Punct}+$"),
+        Regex("^\\p\{Punct\}+$"),
         Regex("^.{1}$")
     )
 

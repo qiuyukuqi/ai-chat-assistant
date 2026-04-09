@@ -85,7 +85,7 @@ class FloatingService : Service() {
 
         val layout = LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL
-            setBackgroundColor(0xDDFFFFFF)
+            setBackgroundColor(0xDDFFFFFF.toInt())
             setPadding(24, 16, 24, 16)
         }
 
