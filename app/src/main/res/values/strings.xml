@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI聊天助手</string>
+    <string name="accessibility_description">AI聊天辅助服务，用于智能推荐回复</string>
+    <string name="suggestion_title">AI建议回复</string>
+    <string name="send_btn">发送</string>
+    <string name="dismiss_btn">忽略</string>
+    <string name="config_save">保存配置</string>
+    <string name="api_key_hint">API Key</string>
+    <string name="model_hint">选择模型</string>
+    <string name="service_running">服务运行中</string>
+    <string name="service_stopped">服务未启动</string>
+</resources>
