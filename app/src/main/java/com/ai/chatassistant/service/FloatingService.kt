@@ -11,6 +11,7 @@ import android.view.WindowManager
 import android.widget.Button
 import android.widget.LinearLayout
 import android.widget.TextView
+import androidx.core.app.NotificationCompat
 import com.ai.chatassistant.R
 
 class FloatingService : Service() {
